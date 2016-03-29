@@ -1,0 +1,151 @@
+<%-- 
+    Document   : PastResults
+    Created on : Apr 2, 2015, 6:52:56 AM
+    Author     : abhishek_rohatgi
+--%>
+
+<%@page import="java.util.ArrayList"%>
+<%@page import="com.nuance.expertassistant.db.QueryDB"%>
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<!doctype html>
+
+<%
+
+    if (request.getParameter("projectID") != null) {
+        ArrayList<String> dateList = QueryDB.fetchEvalData(request.getParameter("projectID"));
+
+%>
+<html>
+
+    <head>
+        <title>Past Results</title>
+        <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+        <script type="text/javascript" src="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+        <style type="text/css">
+            /* Space out content a bit */
+            body {
+                padding-top: 20px;
+                padding-bottom: 20px;
+            }
+            /* Everything but the jumbotron gets side spacing for mobile first views */
+            .header, .marketing, .footer {
+                padding-left: 15px;
+                padding-right: 15px;
+            }
+            /* Custom page header */
+            .header {
+                border-bottom: 1px solid #e5e5e5;
+            }
+            /* Make the masthead heading the same height as the navigation */
+            .header h3 {
+                margin-top: 0;
+                margin-bottom: 0;
+                line-height: 40px;
+                padding-bottom: 19px;
+            }
+            /* Custom page footer */
+            .footer {
+                padding-top: 19px;
+                color: #777;
+                border-top: 1px solid #e5e5e5;
+            }
+            /* Customize container */
+            @media(min-width: 768px) {
+                .container {
+                    max-width: 730px;
+                }
+            }
+            .container-narrow > hr {
+                margin: 30px 0;
+            }
+            /* Main marketing message and sign up button */
+            .jumbotron {
+                text-align: center;
+                border-bottom: 1px solid #e5e5e5;
+            }
+            .jumbotron .btn {
+                font-size: 21px;
+                padding: 14px 24px;
+            }
+            /* Supporting marketing content */
+            .marketing {
+                margin: 40px 0;
+            }
+            .marketing p + h4 {
+                margin-top: 28px;
+            }
+            /* Responsive: Portrait tablets and up */
+            @media screen and(min-width: 768px) {
+                /* Remove the padding we set earlier */
+                .header, .marketing, .footer {
+                    padding-left: 0;
+                    padding-right: 0;
+                }
+                /* Space out the masthead */
+                .header {
+                    margin-bottom: 30px;
+                }
+                /* Remove the bottom border on the jumbotron for visual effect */
+                .jumbotron {
+                    border-bottom: 0;
+                }
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="container">
+            <ul class="nav nav-pills pull-right">
+                <li>
+                    <a href="EASignIn.jsp">Home</a>
+                </li>
+                <li class="active">
+                    <a href>Past Results</a>
+                </li>
+                <li>
+                    <a href="#">Docs</a>
+                </li>
+                <li>
+                    <a href="EAResult.jsp?status=logout">Logout</a>
+                </li>
+            </ul>
+            <h3 class="text-muted">Nina Answers</h3>
+        </div>
+        <div class="container">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>DATE</th>
+                        <th>Project ID : <%=request.getParameter("projectID")%> </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <%          int i = 0;
+                        for (String s : dateList) {
+                            i = i+1;
+
+                    %>
+
+                    <tr>
+                        <td><%=i%></td>
+                        <td><%=s%></td>
+                        <td><a class="btn btn-info" href="Evaluation.jsp?projectID=<%=request.getParameter("projectID")%>&DATE=<%=s%>">View it</a></td>
+                    </tr>
+                    <%
+                        }
+                    %>
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>
+
+<%
+    } else {
+
+    }
+%>

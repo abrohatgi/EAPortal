@@ -1,0 +1,3305 @@
+/* Fonts */
+@font-face {
+  font-family: "Audi Type W01";
+  src: url("../Fonts/ca001a68-8a3f-463a-b7c0-9d6c6d9fa7ad.eot?iefix") format("eot");
+}
+
+@font-face {
+  font-family: "Audi Type W01";
+  src: url("../Fonts/ca001a68-8a3f-463a-b7c0-9d6c6d9fa7ad.eot?iefix");
+  src: url("../Fonts/e983524d-472d-40bc-8664-7e9035eb962e.woff") format("woff"), url("../Fonts/8f99ab5b-14ec-46e3-82e0-597f3a4b5ed9.ttf") format("truetype"), url("../Fonts/30599091-0458-4478-816e-eb88550a7b4f.svg#30599091-0458-4478-816e-eb88550a7b4f") format("svg");
+}
+
+@font-face {
+  font-family: "Audi Type W01 Italic";
+  src: url("../Fonts/fd37ae1c-11ea-4e05-98e0-94755eb0c88a.eot?iefix") format("eot");
+}
+
+@font-face {
+  font-family: "Audi Type W01 Italic";
+  src: url("../Fonts/fd37ae1c-11ea-4e05-98e0-94755eb0c88a.eot?iefix");
+  src: url("../Fonts/a496fc45-5f92-49ca-8699-70aa8f4fdb5e.woff") format("woff"), url("../Fonts/3376d7c5-d236-44e4-a897-7c0a0e481151.ttf") format("truetype"), url("../Fonts/06265ea4-6407-4555-b419-386180458751.svg#06265ea4-6407-4555-b419-386180458751") format("svg");
+}
+
+@font-face {
+  font-family: "Audi Type W01 Bold";
+  src: url("../Fonts/bb842713-60c7-4886-b6d6-16bb9a99664d.eot?iefix") format("eot");
+}
+
+@font-face {
+  font-family: "Audi Type W01 Bold";
+  src: url("../Fonts/bb842713-60c7-4886-b6d6-16bb9a99664d.eot?iefix");
+  src: url("../Fonts/149853c4-606f-48bc-ae60-b1fb143a1b3f.woff") format("woff"), url("../Fonts/40fe6559-6c9f-4c77-a1ef-4ede3bfca1ea.ttf") format("truetype"), url("../Fonts/44b3f704-8de9-4fa6-b120-803deaf58290.svg#44b3f704-8de9-4fa6-b120-803deaf58290") format("svg");
+}
+
+@font-face {
+  font-family: "Audi Type W01 Bold Italic";
+  src: url("../Fonts/ae52f1ca-0749-4514-8f96-505110776364.eot?iefix") format("eot");
+}
+
+@font-face {
+  font-family: "Audi Type W01 Bold Italic";
+  src: url("../Fonts/ae52f1ca-0749-4514-8f96-505110776364.eot?iefix");
+  src: url("../Fonts/8fc18e86-91cb-4533-9683-dee67073bcf1.woff") format("woff"), url("../Fonts/2d416f3c-caad-460c-a2e6-35f221aac568.ttf") format("truetype"), url("../Fonts/b6a60ff1-60b6-48b2-bd47-fd5b11c73640.svg#b6a60ff1-60b6-48b2-bd47-fd5b11c73640") format("svg");
+}
+
+@font-face {
+  font-family: "Audi Type W01 Ext";
+  src: url("../Fonts/65045e4b-1704-4137-977b-da500ff233b4.eot?iefix") format("eot");
+}
+
+@font-face {
+  font-family: "Audi Type W01 Ext";
+  src: url("../Fonts/65045e4b-1704-4137-977b-da500ff233b4.eot?iefix");
+  src: url("../Fonts/133c2924-abf5-490d-be63-4a450b510dab.woff") format("woff"), url("../Fonts/0cd2f673-44ae-4f47-895d-c603d9c57fc9.ttf") format("truetype"), url("../Fonts/64219619-37f8-449c-a6ad-1e4985ff0ea3.svg#64219619-37f8-449c-a6ad-1e4985ff0ea3") format("svg");
+}
+
+@font-face {
+  font-family: "Audi Type W01 Ext Italic";
+  src: url("../Fonts/cc91e576-dc48-4642-b7cb-366ec5b7539b.eot?iefix") format("eot");
+}
+
+@font-face {
+  font-family: "Audi Type W01 Ext Italic";
+  src: url("../Fonts/cc91e576-dc48-4642-b7cb-366ec5b7539b.eot?iefix");
+  src: url("../Fonts/a037a3de-49dd-423c-8c08-6da9a21a92b9.woff") format("woff"), url("../Fonts/c92969fe-cf5d-4a1c-bab2-9cffe484966c.ttf") format("truetype"), url("../Fonts/211668ef-d20d-48da-86b7-79957312345c.svg#211668ef-d20d-48da-86b7-79957312345c") format("svg");
+}
+
+@font-face {
+  font-family: "Audi Type W01 Ext Bold";
+  src: url("../Fonts/57a1ec4e-d04d-4129-9888-930e3d0ce847.eot?iefix") format("eot");
+}
+
+@font-face {
+  font-family: "Audi Type W01 Ext Bold";
+  src: url("../Fonts/57a1ec4e-d04d-4129-9888-930e3d0ce847.eot?iefix");
+  src: url("../Fonts/c502a579-bc68-48bd-bfa6-db5d83cab5e9.woff") format("woff"), url("../Fonts/48e04c62-e51b-4d52-b1dd-bc8637507580.ttf") format("truetype"), url("../Fonts/4623fc77-d262-423e-9389-618fe6c816ee.svg#4623fc77-d262-423e-9389-618fe6c816ee") format("svg");
+}
+
+@font-face {
+  font-family: "Audi Type W01 Ext Bold Italic";
+  src: url("../Fonts/4a30b84a-6d8d-4a45-a1d5-426959b82efb.eot?iefix") format("eot");
+}
+
+@font-face {
+  font-family: "Audi Type W01 Ext Bold Italic";
+  src: url("../Fonts/4a30b84a-6d8d-4a45-a1d5-426959b82efb.eot?iefix");
+  src: url("../Fonts/50eb7949-e55f-4473-81f0-0bc5e1ebd268.woff") format("woff"), url("../Fonts/7fd570e4-1b2b-4e47-aa25-1226b4c221ed.ttf") format("truetype"), url("../Fonts/ec2bbced-0721-47d7-945c-b38daac14345.svg#ec2bbced-0721-47d7-945c-b38daac14345") format("svg");
+}
+
+@font-face {
+  font-family: "Audi Type";
+  src: url("../Fonts/9e07819d-c2a7-4f2b-9e8b-92ae7c9262af.eot?iefix") format("eot");
+}
+
+@font-face {
+  font-family: "Audi Type";
+  src: url("../Fonts/9e07819d-c2a7-4f2b-9e8b-92ae7c9262af.eot?iefix");
+  src: url("../Fonts/de0b8bf6-ca0d-4839-818b-92bddb44eaeb.woff") format("woff"), url("../Fonts/2dff57d8-d77c-4537-a78d-e9e48578607a.ttf") format("truetype"), url("../Fonts/610030f6-5069-47ac-99dd-76f20cdb0fac.svg#610030f6-5069-47ac-99dd-76f20cdb0fac") format("svg");
+}
+
+@font-face {
+  font-family: "Audi Type Italic";
+  src: url("../Fonts/d00a8e0c-9a8c-4884-aa6a-47da1592b9e0.eot?iefix") format("eot");
+}
+
+@font-face {
+  font-family: "Audi Type Italic";
+  src: url("../Fonts/d00a8e0c-9a8c-4884-aa6a-47da1592b9e0.eot?iefix");
+  src: url("../Fonts/83f5f0c2-54fb-452c-98e8-3553aabc6d40.woff") format("woff"), url("../Fonts/9b8409df-5f5a-4b2d-a3e7-7d430dc7e030.ttf") format("truetype"), url("../Fonts/725d8b40-1378-4aca-951a-1da4bd465663.svg#725d8b40-1378-4aca-951a-1da4bd465663") format("svg");
+}
+
+@font-face {
+  font-family: "Audi Type Bold";
+  src: url("../Fonts/c719eda5-e635-40fd-8b1c-869ba391dfff.eot?iefix") format("eot");
+}
+
+@font-face {
+  font-family: "Audi Type Bold";
+  src: url("../Fonts/c719eda5-e635-40fd-8b1c-869ba391dfff.eot?iefix");
+  src: url("../Fonts/34d005d1-9444-4a58-af68-4f73c4939ce0.woff") format("woff"), url("../Fonts/e6b424cc-7cd0-44d3-8bcb-ab7ee5c5ae1a.ttf") format("truetype"), url("../Fonts/f7789a38-da66-4f5f-b33f-9084cd6727c8.svg#f7789a38-da66-4f5f-b33f-9084cd6727c8") format("svg");
+}
+
+@font-face {
+  font-family: "Audi Type Bold Italic";
+  src: url("../Fonts/6c5142af-452e-4d34-879f-eb6e46fe6df3.eot?iefix") format("eot");
+}
+
+@font-face {
+  font-family: "Audi Type Bold Italic";
+  src: url("../Fonts/6c5142af-452e-4d34-879f-eb6e46fe6df3.eot?iefix");
+  src: url("../Fonts/70ed7ac5-55e9-41d8-b71c-2959ddd6b38b.woff") format("woff"), url("../Fonts/0e6d153f-e3dd-4612-802b-c426b463feca.ttf") format("truetype"), url("../Fonts/fe20912f-4292-44ab-91fd-31b84e68ed48.svg#fe20912f-4292-44ab-91fd-31b84e68ed48") format("svg");
+}
+
+@font-face {
+  font-family: "Audi Type Ext";
+  src: url("../Fonts/e8544113-fe09-41aa-8599-27b708522875.eot?iefix") format("eot");
+}
+
+@font-face {
+  font-family: "Audi Type Ext";
+  src: url("../Fonts/e8544113-fe09-41aa-8599-27b708522875.eot?iefix");
+  src: url("../Fonts/3cf06a69-cc8c-4e63-aacb-e8138295b55f.woff") format("woff"), url("../Fonts/544c902b-c37e-45a7-8848-3eb58c33cbc3.ttf") format("truetype"), url("../Fonts/df225f05-983e-45f5-8881-258cfe73b15f.svg#df225f05-983e-45f5-8881-258cfe73b15f") format("svg");
+}
+
+@font-face {
+  font-family: "Audi Type Ext Italic";
+  src: url("../Fonts/c39f5606-26f4-4659-8d8b-2d95bafaef8b.eot?iefix") format("eot");
+}
+
+@font-face {
+  font-family: "Audi Type Ext Italic";
+  src: url("../Fonts/c39f5606-26f4-4659-8d8b-2d95bafaef8b.eot?iefix");
+  src: url("../Fonts/809f78c6-dada-4caf-a7a0-08c8b5ff4951.woff") format("woff"), url("../Fonts/d9544a79-93b7-405e-9db8-bd6c784d8ada.ttf") format("truetype"), url("../Fonts/8a07a511-1402-46cf-aa13-971aa867193d.svg#8a07a511-1402-46cf-aa13-971aa867193d") format("svg");
+}
+
+@font-face {
+  font-family: "Audi Type Ext Bold";
+  src: url("../Fonts/0d9df420-76ab-40a9-ae57-2461c1c6ab6d.eot?iefix") format("eot");
+}
+
+@font-face {
+  font-family: "Audi Type Ext Bold";
+  src: url("../Fonts/0d9df420-76ab-40a9-ae57-2461c1c6ab6d.eot?iefix");
+  src: url("../Fonts/a3c162ba-a8e8-4fc5-93d6-86d391105a57.woff") format("woff"), url("../Fonts/68930f0b-94a1-4c0e-a5ae-f8e3ad3b49a7.ttf") format("truetype"), url("../Fonts/e26927bb-0f7e-450e-87af-b5220869dd73.svg#e26927bb-0f7e-450e-87af-b5220869dd73") format("svg");
+}
+
+@font-face {
+  font-family: "Audi Type Ext Bold Italic";
+  src: url("../Fonts/bcbc99a8-48e9-4fb0-b930-f6c3965c66e8.eot?iefix") format("eot");
+}
+
+@font-face {
+  font-family: "Audi Type Ext Bold Italic";
+  src: url("../Fonts/bcbc99a8-48e9-4fb0-b930-f6c3965c66e8.eot?iefix");
+  src: url("../Fonts/e29bb50a-53f2-4ef9-99f6-0f64213aa5ad.woff") format("woff"), url("../Fonts/1140f8d6-ca19-41e9-a749-0696504dbaa6.ttf") format("truetype"), url("../Fonts/5d97548b-4390-488e-af2d-0f34ad2a8862.svg#5d97548b-4390-488e-af2d-0f34ad2a8862") format("svg");
+}
+
+/* -------------------------------------------------------------------------*/
+/* Layout */
+@media (min-width: 768px) {
+  /* line 14, ../sass/global.scss */
+  .container {
+    width: 709px;
+    padding: 0 30px !important;
+  }
+}
+@media (min-width: 1024px) {
+  /* line 18, ../sass/global.scss */
+  .container {
+    width: 950px;
+    padding: 0 37px !important;
+  }
+}
+@media (min-width: 1280px) {
+  /* line 22, ../sass/global.scss */
+  .container {
+    width: 1190px;
+    padding: 0 45px !important;
+  }
+}
+@media (min-width: 1440px) {
+  /* line 26, ../sass/global.scss */
+  .container {
+    width: 1340px;
+    padding: 0 50px !important;
+  }
+}
+/* line 29, ../sass/global.scss */
+.container {
+  *zoom: 1;
+  max-width: 79.09em;
+  _width: 79.09em;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  -webkit-background-origin: content;
+  -moz-background-origin: content;
+  -ms-background-origin: content-box;
+  -o-background-origin: content-box;
+  background-origin: content-box;
+  -webkit-background-clip: content-box;
+  -moz-background-clip: content-box;
+  background-clip: content-box;
+  max-width: 1440px !important;
+}
+/* line 38, ../../../../../Library/Ruby/Gems/1.8/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
+.container:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* line 136, ../sass/global.scss */
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  color: black;
+  -moz-transition: margin 0.25s ease-out;
+  -o-transition: margin 0.25s ease-out;
+  -webkit-transition: margin 0.25s ease-out;
+  transition: margin 0.25s ease-out;
+  padding-bottom: 60px;
+  font-family: "Audi Type W01";
+  -webkit-text-size-adjust: none;
+}
+
+@media screen and (max-width: 767px) {
+  /* line 150, ../sass/global.scss */
+  body#mock {
+    padding-top: 68px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  /* line 156, ../sass/global.scss */
+  body.homepage {
+    padding-top: 48px !important;
+  }
+}
+
+/* line 162, ../sass/global.scss */
+img, a img {
+  display: block;
+  float: left;
+  margin: left;
+  padding: 0 0 15px;
+  //width: 100%;
+  outline: none;
+  border: none;
+}
+@media screen and (min-width: 768px) {
+  /* line 162, ../sass/global.scss */
+  img, a img {
+    padding: 0 0 20px;
+  }
+}
+
+/* line 170, ../sass/global.scss */
+b {
+  font-weight: normal;
+  font-family: "Audi Type W01 Bold";
+}
+
+/* line 176, ../sass/global.scss */
+p, ul {
+  font-family: "Audi Type W01";
+  font-size: 12px;
+  line-height: 1.5em;
+  display: block;
+  float: left;
+  margin: 0;
+  padding: 0 0 15px;
+  clear: both;
+}
+@media screen and (min-width: 768px) {
+  /* line 176, ../sass/global.scss */
+  p, ul {
+    padding: 0 0 20px;
+  }
+}
+@media screen and (min-width: 1280px) {
+  /* line 176, ../sass/global.scss */
+  p, ul {
+    font-size: 13px;
+  }
+}
+
+/* line 188, ../sass/global.scss */
+li {
+  padding: 0;
+  margin: 0;
+}
+
+/* line 193, ../sass/global.scss */
+ul.pretty li {
+  background: url(../images/list_bullet.png) no-repeat 0px 6px;
+  padding-left: 13px;
+  padding-bottom: 10px;
+}
+
+/* line 200, ../sass/global.scss */
+b {
+  font-family: "Audi Type W01 Bold";
+}
+
+/* line 204, ../sass/global.scss */
+p.large {
+  font-size: 14px;
+  line-height: 20px;
+}
+
+/* line 209, ../sass/global.scss */
+p.small {
+  font-size: 10px;
+  line-height: 12px;
+}
+
+/* line 214, ../sass/global.scss */
+.emphasis {
+  font-size: 15px;
+  line-height: 1.5em;
+  font-family: "Audi Type W01 Ext";
+  letter-spacing: 0;
+}
+@media screen and (min-width: 768px) {
+  /* line 214, ../sass/global.scss */
+  .emphasis {
+    font-size: 20px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  /* line 214, ../sass/global.scss */
+  .emphasis {
+    font-size: 24px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  /* line 223, ../sass/global.scss */
+  body#mock .emphasis {
+    padding: 0 15px !important;
+  }
+}
+
+/* line 229, ../sass/global.scss */
+ul {
+  //list-style: none;
+  list-style: disc inside;
+}
+
+/* line 233, ../sass/global.scss */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+  color: black;
+  font-family: "Audi Type W01 Ext Bold";
+  line-height: 1.2em;
+  display: block;
+  float: left;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  margin: 0;
+  padding: 0 0 15px;
+}
+@media screen and (min-width: 768px) {
+  /* line 233, ../sass/global.scss */
+  h1, h2, h3, h4, h5, h6 {
+    padding: 0 0 20px;
+  }
+}
+
+/* line 244, ../sass/global.scss */
+h1, h2, h3 {
+  line-height: 1.2em;
+}
+
+/* line 248, ../sass/global.scss */
+h4, h5, h6 {
+  line-height: 1.4em;
+}
+
+/* line 252, ../sass/global.scss */
+h1 {
+  font-size: 20px;
+}
+
+/* line 253, ../sass/global.scss */
+h2 {
+  font-size: 16px;
+}
+
+/* line 254, ../sass/global.scss */
+h3 {
+  font-size: 15px;
+}
+
+/* line 255, ../sass/global.scss */
+h4 {
+  font-size: 14px;
+}
+
+/* line 256, ../sass/global.scss */
+h5 {
+  font-size: 14px;
+}
+
+/* line 257, ../sass/global.scss */
+h6 {
+  font-size: 12px;
+}
+
+/* line 259, ../sass/global.scss */
+a h5:hover {
+  color: #cc0033;
+}
+
+@media screen and (max-width: 767px) {
+  /* line 264, ../sass/global.scss */
+  h5 {
+    font-family: "Audi Type W01 Bold";
+  }
+}
+@media screen and (min-width: 768px) {
+  /* line 269, ../sass/global.scss */
+  h1 {
+    font-size: 34px;
+    letter-spacing: -1px;
+  }
+
+  /* line 270, ../sass/global.scss */
+  h2 {
+    font-size: 24px;
+    letter-spacing: -.05em;
+  }
+
+  /* line 271, ../sass/global.scss */
+  h3 {
+    font-size: 20px;
+    letter-spacing: -.05em;
+  }
+
+  /* line 272, ../sass/global.scss */
+  h4 {
+    font-size: 15px;
+  }
+
+  /* line 273, ../sass/global.scss */
+  h5 {
+    font-size: 14px;
+  }
+
+  /* line 274, ../sass/global.scss */
+  h6 {
+    font-size: 12px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  /* line 278, ../sass/global.scss */
+  h1 {
+    font-size: 38px;
+    letter-spacing: -2px;
+  }
+
+  /* line 279, ../sass/global.scss */
+  h2 {
+    font-size: 28px;
+    letter-spacing: -1px;
+  }
+
+  /* line 280, ../sass/global.scss */
+  h3 {
+    font-size: 24px;
+    letter-spacing: -.05em;
+  }
+
+  /* line 281, ../sass/global.scss */
+  h4 {
+    font-size: 15px;
+  }
+
+  /* line 282, ../sass/global.scss */
+  h5 {
+    font-size: 14px;
+  }
+
+  /* line 283, ../sass/global.scss */
+  h6 {
+    font-size: 12px;
+  }
+}
+/* line 287, ../sass/global.scss */
+.sub {
+  font-size: 14px;
+  color: #6d7579;
+  display: block;
+  letter-spacing: 0;
+  line-height: 1.4em;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  /* line 287, ../sass/global.scss */
+  .sub {
+    padding-top: 0;
+  }
+}
+
+/* line 298, ../sass/global.scss */
+.price {
+  font-family: "Audi Type W01";
+  display: block;
+}
+
+/* line 303, ../sass/global.scss */
+section {
+  display: block;
+  float: left;
+  border-top: 1px solid #d5d9d8;
+  margin: 0;
+  padding: 20px 0 30px;
+  width: 100%;
+  float: left;
+  margin-right: 1.04944%;
+  display: inline;
+  position: relative;
+}
+@media screen and (min-width: 768px) {
+  /* line 303, ../sass/global.scss */
+  section {
+    padding: 25px 0 40px;
+  }
+}
+
+/* line 311, ../sass/global.scss */
+section.head {
+  border-top: solid 3px black;
+}
+/* line 313, ../sass/global.scss */
+section.head .sub {
+  padding-top: 0;
+}
+@media screen and (min-width: 768px) {
+  /* line 313, ../sass/global.scss */
+  section.head .sub {
+    padding-top: 10px;
+  }
+}
+
+/* line 322, ../sass/global.scss */
+.thumbnails section {
+  border-top: none;
+  padding-top: 0;
+}
+
+/* line 328, ../sass/global.scss */
+a {
+  outline: none;
+  color: black;
+  font-size: 12px;
+}
+@media screen and (min-width: 1280px) {
+  /* line 328, ../sass/global.scss */
+  a {
+    font-size: 13px;
+  }
+}
+
+/* line 337, ../sass/global.scss */
+a.clear {
+  clear: both;
+  display: block;
+}
+
+/* line 342, ../sass/global.scss */
+a:hover {
+  color: #cc0033;
+  cursor: pointer;
+}
+
+/* line 347, ../sass/global.scss */
+a.cta {
+  display: block;
+  float: left;
+  padding: 0px 0px 0px 15px;
+  background-image: url(../images/single_arrow.png);
+  background-position: 0px 4px;
+  background-repeat: no-repeat;
+  text-decoration: none;
+  color: black;
+  font-family: "Audi Type W01 Bold" !important;
+  clear: both;
+  margin: 0 0 15px;
+}
+@media screen and (min-width: 768px) {
+  /* line 347, ../sass/global.scss */
+  a.cta {
+    margin: 0 0 20px;
+  }
+}
+
+/* line 363, ../sass/global.scss */
+ul li a.cta {
+  margin-bottom: 5px;
+}
+
+/* line 368, ../sass/global.scss */
+a.cta:hover {
+  color: #cc0033;
+  cursor: pointer;
+}
+
+/* line 373, ../sass/global.scss */
+div.spec {
+  display: block;
+  float: left;
+  margin: 0;
+  padding: 20px 0 30px;
+  width: 100%;
+  float: left;
+  margin-right: 1.04944%;
+  display: inline;
+  color: #cc0033;
+  border-top: dotted 1px #cc0033;
+  margin-top: 50px;
+}
+@media screen and (min-width: 768px) {
+  /* line 373, ../sass/global.scss */
+  div.spec {
+    padding: 25px 0 40px;
+  }
+}
+/* line 380, ../sass/global.scss */
+div.spec p {
+  font-size: 1em;
+  width: 100%;
+}
+
+/* line 388, ../sass/global.scss */
+span.grey {
+  color: #6d7579;
+  font-family: "Audi Type W01";
+}
+
+/* -------------------------------------------------------------------------*/
+/* Components */
+/* line 4, ../sass/_components.scss */
+.homepage-panoramic {
+  display: block;
+  float: left;
+  position: relative;
+  overflow: hidden;
+  height: auto;
+  width: 100%;
+  padding: 0;
+  margin-bottom: 30px;
+}
+@media screen and (min-width: 767px) and (max-width: 1023px) {
+  /* line 4, ../sass/_components.scss */
+  .homepage-panoramic {
+    height: 360px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  /* line 4, ../sass/_components.scss */
+  .homepage-panoramic {
+    height: 480px;
+  }
+}
+@media screen and (min-width: 767px) {
+  /* line 4, ../sass/_components.scss */
+  .homepage-panoramic {
+    margin-bottom: 60px;
+  }
+}
+/* line 22, ../sass/_components.scss */
+.homepage-panoramic img {
+  position: absolute;
+  left: 50%;
+  width: 1600px;
+  margin-left: -800px;
+  overflow: hidden;
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  /* line 22, ../sass/_components.scss */
+  .homepage-panoramic img {
+    width: 1200px;
+    margin-left: -600px;
+  }
+}
+@media screen and (min-width: 480px) and (max-width: 767px) {
+  /* line 22, ../sass/_components.scss */
+  .homepage-panoramic img {
+    width: 785px;
+    margin-left: -392px;
+    position: relative;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 479px) {
+  /* line 22, ../sass/_components.scss */
+  .homepage-panoramic img {
+    width: 480px;
+    margin-left: -240px;
+    position: relative;
+  }
+}
+/* line 43, ../sass/_components.scss */
+.homepage-panoramic .heroContainer {
+  position: relative;
+  margin: 0 auto;
+  width: 100%;
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  /* line 43, ../sass/_components.scss */
+  .homepage-panoramic .heroContainer {
+    width: 768px;
+  }
+}
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+  /* line 43, ../sass/_components.scss */
+  .homepage-panoramic .heroContainer {
+    width: 1024px;
+  }
+}
+@media screen and (min-width: 1280px) and (max-width: 1439px) {
+  /* line 43, ../sass/_components.scss */
+  .homepage-panoramic .heroContainer {
+    width: 1280px;
+  }
+}
+@media screen and (min-width: 1440px) {
+  /* line 43, ../sass/_components.scss */
+  .homepage-panoramic .heroContainer {
+    width: 1440px;
+  }
+}
+/* line 59, ../sass/_components.scss */
+.homepage-panoramic .heroContainer .box {
+  display: block;
+  float: left;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: relative;
+  margin: 30px 0;
+  padding: 40px 37px 30px 37px;
+  width: 276px;
+}
+@media screen and (min-width: 1440px) {
+  /* line 59, ../sass/_components.scss */
+  .homepage-panoramic .heroContainer .box {
+    width: 414px;
+  }
+}
+@media screen and (min-width: 1280px) and (max-width: 1439px) {
+  /* line 59, ../sass/_components.scss */
+  .homepage-panoramic .heroContainer .box {
+    width: 359px;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  /* line 59, ../sass/_components.scss */
+  .homepage-panoramic .heroContainer .box {
+    width: 206px;
+    margin: 12px 0;
+    padding: 20px 28px 20px 28px;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  /* line 59, ../sass/_components.scss */
+  .homepage-panoramic .heroContainer .box {
+    width: auto;
+    margin: 0 12px;
+    padding: 0;
+  }
+}
+@media screen and (min-width: 768px) {
+  /* line 72, ../sass/_components.scss */
+  .homepage-panoramic .heroContainer .box .copyBox .sub {
+    padding-top: 10px;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  /* line 70, ../sass/_components.scss */
+  .homepage-panoramic .heroContainer .box .copyBox {
+    width: 100%;
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-top: 0;
+  }
+}
+/* line 79, ../sass/_components.scss */
+.homepage-panoramic .heroContainer .box .copyBox img.campaign_logo {
+  clear: both;
+  display: block;
+  width: 150px !important;
+  left: 0;
+  position: relative;
+  margin: 0;
+  padding-bottom: 10px;
+}
+
+/* line 97, ../sass/_components.scss */
+.hero-image {
+  width: 100%;
+  float: left;
+  margin-right: 1.04944%;
+  display: inline;
+  display: block;
+  float: left;
+  margin: 0;
+  padding: 20px 0 30px;
+  padding-top: 0 !important;
+}
+@media screen and (min-width: 768px) {
+  /* line 97, ../sass/_components.scss */
+  .hero-image {
+    padding: 25px 0 40px;
+  }
+}
+/* line 102, ../sass/_components.scss */
+.hero-image img {
+  width: 100%;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  /* line 97, ../sass/_components.scss */
+  .hero-image {
+    padding-top: 49px;
+  }
+  /* line 104, ../sass/_components.scss */
+  .hero-image .container {
+    padding: 0 !important;
+  }
+}
+
+/* line 112, ../sass/_components.scss */
+.hero-image .videoLink, .hero-component .videoLink {
+  display: block;
+  float: left;
+  margin: 0;
+  padding: 0 0 15px;
+  position: relative;
+  width: 100%;
+  padding-bottom: 0 !important;
+}
+@media screen and (min-width: 768px) {
+  /* line 112, ../sass/_components.scss */
+  .hero-image .videoLink, .hero-component .videoLink {
+    padding: 0 0 20px;
+  }
+}
+/* line 118, ../sass/_components.scss */
+.hero-image .videoLink .playIconLarge, .hero-component .videoLink .playIconLarge {
+  background: url(../images/play-large.png) no-repeat 0 0;
+  height: 60px;
+  width: 60px;
+  border: solid 6px rgba(255, 255, 255, 0.1);
+  position: absolute;
+  display: block;
+  text-indent: -3000px;
+  -moz-transition: background 0.25s ease-in-out;
+  -o-transition: background 0.25s ease-in-out;
+  -webkit-transition: background 0.25s ease-in-out;
+  transition: background 0.25s ease-in-out;
+  left: 50%;
+  top: 50%;
+  margin-left: -36px;
+  margin-top: -40px;
+}
+/* line 134, ../sass/_components.scss */
+.hero-image .videoLink:hover, .hero-component .videoLink:hover {
+  cursor: pointer;
+}
+/* line 137, ../sass/_components.scss */
+.hero-image .videoLink:hover .playIconLarge, .hero-component .videoLink:hover .playIconLarge {
+  background: url(../images/play-large_hover.png) no-repeat 0 0;
+  cursor: pointer;
+}
+/* line 142, ../sass/_components.scss */
+.hero-image .videoLink:active .playIconLarge, .hero-component .videoLink:active .playIconLarge {
+  background: url(../images/play-large_active.png) no-repeat 0 0;
+}
+
+/* line 152, ../sass/_components.scss */
+.hero-component .block {
+  width: 32.63371%;
+  float: left;
+  margin-right: 1.04944%;
+  display: inline;
+  border-top: solid 3px black;
+  display: block;
+  float: left;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  /* line 152, ../sass/_components.scss */
+  .hero-component .block {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+    border-top: none;
+    padding-top: 0;
+  }
+}
+/* line 161, ../sass/_components.scss */
+.hero-component .block .copyBlock {
+  width: 87.09802%;
+  float: left;
+  margin-right: 3.21581%;
+  display: inline;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  /* line 161, ../sass/_components.scss */
+  .hero-component .block .copyBlock {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+}
+/* line 168, ../sass/_components.scss */
+.hero-component .image {
+  width: 66.31685%;
+  float: right;
+  margin-right: 0;
+  *margin-left: -0.83em;
+  display: inline;
+  display: block;
+  float: right;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  /* line 168, ../sass/_components.scss */
+  .hero-component .image {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+    padding-bottom: 5px;
+    border-top: solid 3px black;
+  }
+}
+
+/* line 182, ../sass/_components.scss */
+#hero-carousel .copyBlock {
+  display: block;
+  position: absolute;
+  opacity: 0;
+  -moz-transition: all 0.25s ease-in-out;
+  -o-transition: all 0.25s ease-in-out;
+  -webkit-transition: all 0.25s ease-in-out;
+  transition: all 0.25s ease-in-out;
+}
+/* line 187, ../sass/_components.scss */
+#hero-carousel .copyBlock img.campaign_logo {
+  clear: both;
+  width: 150px !important;
+  padding-bottom: 10px;
+}
+@media screen and (min-width: 768px) {
+  /* line 194, ../sass/_components.scss */
+  #hero-carousel .image {
+    padding-bottom: 60px !important;
+  }
+}
+
+/* line 200, ../sass/_components.scss */
+.one .copy1, .two .copy2, .three .copy3, .four .copy4 {
+  opacity: 1 !important;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  /* line 200, ../sass/_components.scss */
+  .one .copy1, .two .copy2, .three .copy3, .four .copy4 {
+    position: relative !important;
+  }
+}
+
+/* line 210, ../sass/_components.scss */
+.one-column-layout .copyBlock, .two-column-layout .copyBlock, .three-column-layout .copyBlock, .four-column-layout .copyBlock {
+  margin-top: -5px;
+}
+/* line 213, ../sass/_components.scss */
+.one-column-layout section.noBorder, .two-column-layout section.noBorder, .three-column-layout section.noBorder, .four-column-layout section.noBorder {
+  border-top: none !important;
+  padding-top: 0 !important;
+}
+
+/* line 222, ../sass/_components.scss */
+.one-column-layout section {
+  width: 100%;
+  float: right;
+  margin-right: 0;
+  *margin-left: -0.83em;
+  display: inline;
+}
+/* line 224, ../sass/_components.scss */
+.one-column-layout section .copyBlock {
+  width: 74.73764%;
+  float: left;
+  margin-right: 1.04944%;
+  display: inline;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  /* line 224, ../sass/_components.scss */
+  .one-column-layout section .copyBlock {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+}
+
+/* line 236, ../sass/_components.scss */
+.two-column-layout section {
+  width: 49.47528%;
+  float: left;
+  margin-right: 1.04944%;
+  display: inline;
+}
+/* line 238, ../sass/_components.scss */
+.two-column-layout section:nth-child(2n) {
+  float: right;
+  margin-right: 0;
+  *margin-left: -0.83em;
+  display: inline;
+}
+@media screen and (min-width: 320px) and (max-width: 479px) {
+  /* line 236, ../sass/_components.scss */
+  .two-column-layout section {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+}
+/* line 244, ../sass/_components.scss */
+.two-column-layout section .copyBlock {
+  width: 91.48991%;
+  float: left;
+  margin-right: 2.12113%;
+  display: inline;
+}
+@media screen and (min-width: 320px) and (max-width: 479px) {
+  /* line 244, ../sass/_components.scss */
+  .two-column-layout section .copyBlock {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 479px) {
+  /* line 262, ../sass/_components.scss */
+  .three-column-layout section, .three-column-layout-header section {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+}
+@media screen and (min-width: 480px) and (max-width: 767px) {
+  /* line 262, ../sass/_components.scss */
+  .three-column-layout section, .three-column-layout-header section {
+    width: 49.47528%;
+    float: left;
+    margin-right: 1.04944%;
+    display: inline;
+  }
+  /* line 268, ../sass/_components.scss */
+  .three-column-layout section:nth-child(2n), .three-column-layout-header section:nth-child(2n) {
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+}
+@media screen and (min-width: 768px) {
+  /* line 262, ../sass/_components.scss */
+  .three-column-layout section, .three-column-layout-header section {
+    width: 32.63371%;
+    float: left;
+    margin-right: 1.04944%;
+    display: inline;
+  }
+  /* line 274, ../sass/_components.scss */
+  .three-column-layout section:nth-child(3n), .three-column-layout-header section:nth-child(3n) {
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+}
+/* line 278, ../sass/_components.scss */
+.three-column-layout section .copyBlock, .three-column-layout-header section .copyBlock {
+  width: 87.09802%;
+  float: left;
+  margin-right: 3.21581%;
+  display: inline;
+}
+@media screen and (min-width: 320px) and (max-width: 479px) {
+  /* line 278, ../sass/_components.scss */
+  .three-column-layout section .copyBlock, .three-column-layout-header section .copyBlock {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+}
+
+@media screen and (min-width: 480px) and (max-width: 767px) {
+  /* line 292, ../sass/_components.scss */
+  .three-column-layout-header section.head {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+}
+
+/* line 302, ../sass/_components.scss */
+.one-twothirds-column-layout-header section {
+  width: 32.63371%;
+  float: left;
+  margin-right: 1.04944%;
+  display: inline;
+}
+@media screen and (min-width: 320px) and (max-width: 479px) {
+  /* line 302, ../sass/_components.scss */
+  .one-twothirds-column-layout-header section {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+}
+@media screen and (min-width: 480px) and (max-width: 767px) {
+  /* line 302, ../sass/_components.scss */
+  .one-twothirds-column-layout-header section {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+}
+/* line 310, ../sass/_components.scss */
+.one-twothirds-column-layout-header section .copyBlock {
+  width: 87.09802%;
+  float: left;
+  margin-right: 3.21581%;
+  display: inline;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  /* line 310, ../sass/_components.scss */
+  .one-twothirds-column-layout-header section .copyBlock {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+}
+/* line 317, ../sass/_components.scss */
+.one-twothirds-column-layout-header section.two-thirds {
+  width: 66.31685%;
+  float: right;
+  margin-right: 0;
+  *margin-left: -0.83em;
+  display: inline;
+}
+@media screen and (min-width: 320px) and (max-width: 479px) {
+  /* line 317, ../sass/_components.scss */
+  .one-twothirds-column-layout-header section.two-thirds {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+}
+@media screen and (min-width: 480px) and (max-width: 767px) {
+  /* line 317, ../sass/_components.scss */
+  .one-twothirds-column-layout-header section.two-thirds {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+}
+/* line 325, ../sass/_components.scss */
+.one-twothirds-column-layout-header section.two-thirds .copyBlock {
+  width: 93.6511%;
+  float: left;
+  margin-right: 1.58246%;
+  display: inline;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  /* line 325, ../sass/_components.scss */
+  .one-twothirds-column-layout-header section.two-thirds .copyBlock {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+}
+
+/* line 338, ../sass/_components.scss */
+.four-column-layout section, .four-column-layout-header section {
+  width: 24.21292%;
+  float: left;
+  margin-right: 1.04944%;
+  display: inline;
+}
+@media screen and (min-width: 320px) and (max-width: 479px) {
+  /* line 338, ../sass/_components.scss */
+  .four-column-layout section, .four-column-layout-header section {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+}
+@media screen and (min-width: 480px) and (max-width: 767px) {
+  /* line 338, ../sass/_components.scss */
+  .four-column-layout section, .four-column-layout-header section {
+    width: 49.47528%;
+    float: left;
+    margin-right: 1.04944%;
+    display: inline;
+  }
+}
+/* line 346, ../sass/_components.scss */
+.four-column-layout section .copyBlock, .four-column-layout-header section .copyBlock {
+  width: 82.61097%;
+  float: left;
+  margin-right: 4.3342%;
+  display: inline;
+}
+@media screen and (min-width: 320px) and (max-width: 479px) {
+  /* line 346, ../sass/_components.scss */
+  .four-column-layout section .copyBlock, .four-column-layout-header section .copyBlock {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+}
+@media screen and (min-width: 480px) and (max-width: 767px) {
+  /* line 346, ../sass/_components.scss */
+  .four-column-layout section .copyBlock, .four-column-layout-header section .copyBlock {
+    width: 95.78961%;
+    float: left;
+    margin-right: 1.04944%;
+    display: inline;
+  }
+}
+/* line 356, ../sass/_components.scss */
+.four-column-layout section:last-child, .four-column-layout-header section:last-child {
+  width: 24.21292%;
+  float: left;
+  margin-right: 1.04944%;
+  display: inline;
+  display: block;
+  float: left;
+}
+@media screen and (min-width: 320px) and (max-width: 479px) {
+  /* line 356, ../sass/_components.scss */
+  .four-column-layout section:last-child, .four-column-layout-header section:last-child {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+}
+@media screen and (min-width: 480px) and (max-width: 767px) {
+  /* line 356, ../sass/_components.scss */
+  .four-column-layout section:last-child, .four-column-layout-header section:last-child {
+    width: 49.47528%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+}
+/* line 366, ../sass/_components.scss */
+.four-column-layout .row:last-child section:last-child, .four-column-layout-header .row:last-child section:last-child {
+  width: 24.21292%;
+  float: right;
+  margin-right: 0;
+  *margin-left: -0.83em;
+  display: inline;
+}
+@media screen and (min-width: 320px) and (max-width: 479px) {
+  /* line 366, ../sass/_components.scss */
+  .four-column-layout .row:last-child section:last-child, .four-column-layout-header .row:last-child section:last-child {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+}
+@media screen and (min-width: 480px) and (max-width: 767px) {
+  /* line 366, ../sass/_components.scss */
+  .four-column-layout .row:last-child section:last-child, .four-column-layout-header .row:last-child section:last-child {
+    width: 49.47528%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+}
+
+@media screen and (min-width: 480px) and (max-width: 767px) {
+  /* line 382, ../sass/_components.scss */
+  .four-column-layout-header section.head {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+  /* line 386, ../sass/_components.scss */
+  .four-column-layout-header .row:last-child section:last-child {
+    display: block;
+    float: left;
+  }
+}
+
+/* line 396, ../sass/_components.scss */
+.one-threefourths-layout-header section {
+  width: 24.21292%;
+  float: left;
+  margin-right: 1.04944%;
+  display: inline;
+}
+@media screen and (min-width: 320px) and (max-width: 479px) {
+  /* line 396, ../sass/_components.scss */
+  .one-threefourths-layout-header section {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+}
+@media screen and (min-width: 480px) and (max-width: 767px) {
+  /* line 396, ../sass/_components.scss */
+  .one-threefourths-layout-header section {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+}
+/* line 404, ../sass/_components.scss */
+.one-threefourths-layout-header section .copyBlock {
+  width: 82.61097%;
+  float: left;
+  margin-right: 4.3342%;
+  display: inline;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  /* line 404, ../sass/_components.scss */
+  .one-threefourths-layout-header section .copyBlock {
+    width: 87.36882%;
+    float: left;
+    margin-right: 1.04944%;
+    display: inline;
+  }
+}
+/* line 411, ../sass/_components.scss */
+.one-threefourths-layout-header section.three-fourths {
+  width: 74.73764%;
+  float: right;
+  margin-right: 0;
+  *margin-left: -0.83em;
+  display: inline;
+  display: block;
+  float: left;
+}
+@media screen and (min-width: 320px) and (max-width: 479px) {
+  /* line 411, ../sass/_components.scss */
+  .one-threefourths-layout-header section.three-fourths {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+}
+@media screen and (min-width: 480px) and (max-width: 767px) {
+  /* line 411, ../sass/_components.scss */
+  .one-threefourths-layout-header section.three-fourths {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+}
+
+/* line 427, ../sass/_components.scss */
+.vehicle-grid section {
+  padding-top: 0;
+}
+/* line 429, ../sass/_components.scss */
+.vehicle-grid section img {
+  padding-bottom: 0;
+}
+/* line 432, ../sass/_components.scss */
+.vehicle-grid section .copyBlock {
+  padding-left: 8.42079%;
+  padding-right: 0%;
+}
+
+/* line 442, ../sass/_components.scss */
+.videoLink .video {
+  display: block;
+  float: left;
+  margin: 0;
+  padding: 0 0 15px;
+  position: relative;
+  width: 100%;
+}
+@media screen and (min-width: 768px) {
+  /* line 442, ../sass/_components.scss */
+  .videoLink .video {
+    padding: 0 0 20px;
+  }
+}
+/* line 447, ../sass/_components.scss */
+.videoLink .video .playIcon {
+  background: url(../images/play.png) no-repeat 0 0;
+  height: 30px;
+  width: 30px;
+  border: solid 3px rgba(255, 255, 255, 0.1);
+  position: absolute;
+  display: block;
+  text-indent: -3000px;
+  -moz-transition: background 0.25s ease-in-out;
+  -o-transition: background 0.25s ease-in-out;
+  -webkit-transition: background 0.25s ease-in-out;
+  transition: background 0.25s ease-in-out;
+  left: 50%;
+  top: 50%;
+  margin-left: -18px;
+  margin-top: -25px;
+}
+/* line 461, ../sass/_components.scss */
+.videoLink .video img {
+  padding-bottom: 0;
+}
+/* line 465, ../sass/_components.scss */
+.videoLink .copyBlock {
+  text-decoration: underline;
+}
+
+/* line 469, ../sass/_components.scss */
+.video:hover {
+  cursor: pointer;
+}
+
+/* line 472, ../sass/_components.scss */
+.video:hover .playIcon {
+  background: url(../images/play_hover.png) no-repeat 0 0;
+  cursor: pointer;
+}
+
+/* line 477, ../sass/_components.scss */
+.video:active .playIcon {
+  background: url(../images/play_active.png) no-repeat 0 0;
+}
+
+/* line 484, ../sass/_components.scss */
+.tabs {
+  display: block;
+  float: left;
+  margin-bottom: 40px;
+}
+/* line 487, ../sass/_components.scss */
+.tabs ul.tabList {
+  display: block;
+  float: left;
+  margin-bottom: 30px;
+  padding: 0;
+  border-bottom: solid 1px #d5d9d8;
+  height: 30px;
+  font-family: "Audi Type W01 Bold";
+  width: 100%;
+  float: right;
+  margin-right: 0;
+  *margin-left: -0.83em;
+  display: inline;
+}
+/* line 496, ../sass/_components.scss */
+.tabs ul.tabList li {
+  display: inline-block;
+}
+/* line 498, ../sass/_components.scss */
+.tabs ul.tabList li a {
+  display: block;
+  float: left;
+  border: solid 1px black;
+  border-bottom: none;
+  background-color: black;
+  color: white;
+  padding: 5px 12px;
+  position: relative;
+  top: 0px;
+  text-decoration: none;
+}
+/* line 509, ../sass/_components.scss */
+.tabs ul.tabList li a:hover {
+  background-color: #434c53;
+  border-color: #434c53;
+}
+/* line 513, ../sass/_components.scss */
+.tabs ul.tabList li a.selected {
+  background-color: white;
+  color: black;
+  border-color: #d5d9d8;
+  border-bottom: solid 1px white;
+  z-index: 0;
+  top: 1px;
+}
+/* line 523, ../sass/_components.scss */
+.tabs p {
+  width: 74.73764%;
+  float: left;
+  margin-right: 1.04944%;
+  display: inline;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  /* line 523, ../sass/_components.scss */
+  .tabs p {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+}
+/* line 530, ../sass/_components.scss */
+.tabs .copyBlock p {
+  width: 100%;
+  float: right;
+  margin-right: 0;
+  *margin-left: -0.83em;
+  display: inline;
+}
+/* line 534, ../sass/_components.scss */
+.tabs section {
+  padding-bottom: 20px;
+}
+
+/* line 542, ../sass/_components.scss */
+.one-twothirds-column-layout-header .tabs p {
+  width: 100%;
+}
+
+/* line 551, ../sass/_components.scss */
+.accordion {
+  width: 100%;
+  display: block;
+  float: left;
+  padding-bottom: 40px;
+}
+/* line 556, ../sass/_components.scss */
+.accordion h6 {
+  display: block;
+  float: left;
+  margin-bottom: 2px;
+  background-color: #e7e9ea;
+  font-family: "Audi Type W01 Bold";
+  padding: 8px 0;
+  outline: none;
+}
+/* line 563, ../sass/_components.scss */
+.accordion h6 .accordionHeader {
+  display: block;
+  float: left;
+  width: 74.73764%;
+  float: left;
+  margin-right: 1.04944%;
+  display: inline;
+  padding: 0 0 0 20px;
+}
+/* line 568, ../sass/_components.scss */
+.accordion h6 .icon {
+  display: block;
+  float: right;
+  width: 10px;
+  padding: 0 20px 0 0;
+  height: 100%;
+  background: url(../images/plus.png) no-repeat 0 center !important;
+}
+/* line 576, ../sass/_components.scss */
+.accordion h6:hover, .accordion h6.ui-accordion-header-active {
+  background-color: #d0d3d4;
+  cursor: pointer;
+}
+/* line 581, ../sass/_components.scss */
+.accordion h6.ui-accordion-header-active .icon {
+  background: url(../images/minus.png) no-repeat 0 center !important;
+}
+/* line 585, ../sass/_components.scss */
+.accordion div {
+  display: block;
+  float: left;
+  height: auto;
+  padding: 20px 20px 0 20px;
+}
+/* line 590, ../sass/_components.scss */
+.accordion div p {
+  width: 74.73764%;
+  float: left;
+  margin-right: 1.04944%;
+  display: inline;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  /* line 590, ../sass/_components.scss */
+  .accordion div p {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+  }
+}
+
+/* line 603, ../sass/_components.scss */
+.four-column-table table {
+  border: none;
+  border-top: 1px solid #d5d9d8;
+  font-family: "Audi Type W01";
+  font-size: 12px;
+  margin-bottom: 50px;
+}
+/* line 612, ../sass/_components.scss */
+.four-column-table table tr td {
+  border: 1px solid #d5d9d8;
+  border-top: none;
+  border-left: none;
+  padding: 20px 25px;
+  min-width: 80px;
+  vertical-align: top;
+}
+/* line 619, ../sass/_components.scss */
+.four-column-table table tr td:last-child {
+  border-right: none;
+}
+
+/* line 629, ../sass/_components.scss */
+.imageGalBar {
+  background-color: black;
+  height: 71px;
+  padding: 13px 0 0 0;
+  float: left;
+  color: white;
+  width: 100%;
+  float: right;
+  margin-right: 0;
+  *margin-left: -0.83em;
+  display: inline;
+}
+/* line 636, ../sass/_components.scss */
+.imageGalBar .galHeader {
+  padding: 0 37px;
+  width: 66.31685%;
+  float: left;
+  margin-right: 1.04944%;
+  display: inline;
+}
+/* line 639, ../sass/_components.scss */
+.imageGalBar .galHeader h5 {
+  margin: 0;
+  padding: 0;
+  color: white !important;
+}
+/* line 645, ../sass/_components.scss */
+.imageGalBar .galDescription {
+  padding: 0 37px;
+  width: 66.31685%;
+  float: left;
+  margin-right: 1.04944%;
+  display: inline;
+}
+/* line 648, ../sass/_components.scss */
+.imageGalBar .galDescription p {
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+  height: 36px;
+  max-width: 630px;
+}
+/* line 654, ../sass/_components.scss */
+.imageGalBar .galDescription p em {
+  font-style: normal;
+  text-decoration: underline;
+}
+/* line 657, ../sass/_components.scss */
+.imageGalBar .galDescription p em:hover {
+  cursor: pointer;
+  color: #cc0033;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  /* line 645, ../sass/_components.scss */
+  .imageGalBar .galDescription {
+    width: 78.94803%;
+    float: left;
+    margin-right: 1.04944%;
+    display: inline;
+  }
+}
+/* line 667, ../sass/_components.scss */
+.imageGalBar .barIcons {
+  float: right;
+  margin-right: 30px;
+}
+/* line 670, ../sass/_components.scss */
+.imageGalBar .barIcons img {
+  width: auto;
+  margin-left: 10px;
+  margin-top: 13px;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  /* line 667, ../sass/_components.scss */
+  .imageGalBar .barIcons {
+    display: none;
+  }
+}
+
+/* line 681, ../sass/_components.scss */
+.videoGalBar {
+  background-color: black;
+  height: 71px;
+  padding: 13px 0 0 0;
+  float: left;
+  color: white;
+  width: 100%;
+  float: right;
+  margin-right: 0;
+  *margin-left: -0.83em;
+  display: inline;
+}
+/* line 688, ../sass/_components.scss */
+.videoGalBar .play {
+  width: 60px;
+  margin: 0 6px 0 14px;
+}
+/* line 692, ../sass/_components.scss */
+.videoGalBar .galHeader {
+  padding: 0;
+  width: 62.10646%;
+  float: left;
+  margin-right: 1.04944%;
+  display: inline;
+}
+/* line 695, ../sass/_components.scss */
+.videoGalBar .galHeader h5 {
+  margin: 0;
+  padding: 0;
+  color: white !important;
+}
+/* line 701, ../sass/_components.scss */
+.videoGalBar .galDescription {
+  padding: 0;
+  width: 62.10646%;
+  float: left;
+  margin-right: 1.04944%;
+  display: inline;
+}
+/* line 704, ../sass/_components.scss */
+.videoGalBar .galDescription p {
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+  height: 36px;
+  max-width: 580px;
+}
+/* line 710, ../sass/_components.scss */
+.videoGalBar .galDescription p em {
+  font-style: normal;
+  text-decoration: underline;
+}
+/* line 713, ../sass/_components.scss */
+.videoGalBar .galDescription p em:hover {
+  cursor: pointer;
+  color: #cc0033;
+}
+
+/* line 724, ../sass/_components.scss */
+.ellipsis, .ellipsisH {
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+/* line 729, ../sass/_components.scss */
+.ellipsis.multiline {
+  white-space: normal;
+}
+
+/* line 4, ../sass/_nav.scss */
+body.mOpen {
+  margin-left: 270px;
+}
+/* line 6, ../sass/_nav.scss */
+body.mOpen #header {
+  left: 270px;
+}
+
+/* line 12, ../sass/_nav.scss */
+.headerContainer {
+  background-repeat: no-repeat;
+  //background-image: url(../images/bodyheaderbg.gif);
+  background-position: top center;
+  position: relative;
+  z-index: 100;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  /* line 18, ../sass/_nav.scss */
+  .headerContainer .container {
+    padding: 0 !important;
+  }
+}
+
+/* line 25, ../sass/_nav.scss */
+#header {
+  display: block;
+  float: left;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  float: right;
+  margin-right: 0;
+  *margin-left: -0.83em;
+  display: inline;
+  height: 75px;
+   background-image: url("../images/headerGradient.jpg"); 
+  background-repeat: no-repeat;
+  background-position: top center;
+  border: none;
+  position: relative;
+  -moz-transition: left 0.25s ease-out;
+  -o-transition: left 0.25s ease-out;
+  -webkit-transition: left 0.25s ease-out;
+  transition: left 0.25s ease-out;
+}
+/* line 39, ../sass/_nav.scss */
+#header ul {
+  padding: 0;
+  margin: 0;
+}
+/* line 41, ../sass/_nav.scss */
+#header ul li {
+  display: block;
+  float: left;
+  margin: 31px 60px 0 0;
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  /* line 41, ../sass/_nav.scss */
+  #header ul li {
+    margin: 31px 50px 0 0;
+  }
+}
+/* line 48, ../sass/_nav.scss */
+#header ul a {
+  display: block;
+  float: left;
+  font-family: "Audi Type W01 Ext";
+  font-size: 11px;
+  text-decoration: none;
+  font-weight: normal;
+  padding-bottom: 6px;
+  color: #434c53;
+  border-bottom: solid 1px rgba(204, 0, 51, 0);
+}
+/* line 58, ../sass/_nav.scss */
+#header ul a:hover {
+ border-bottom: solid 1px #cc0033;
+}
+/* line 62, ../sass/_nav.scss */
+#header a.audiLogo {
+  display: block;
+  float: right;
+  height: 25px;
+  width: 181px;
+  text-indent: -4000px;
+  background-position: top right !important;
+  background-repeat: no-repeat !important;
+  margin: 26px 0 0 0;
+  padding: 0;
+  border: 0;
+  background: url(../images/logoClaim.png);
+}
+
+/* line 76, ../sass/_nav.scss */
+#mobileMenu, #mobileNav div.nav_links {
+  display: none;
+}
+
+/* line 80, ../sass/_nav.scss */
+.navOpen {
+  padding-left: 270px !important;
+}
+
+/* line 84, ../sass/_nav.scss */
+#mobileMenu a {
+  display: block;
+  float: left;
+  width: 48px;
+  border-right: solid 1px #d5d9d8;
+  height: 48px;
+  text-indent: -1000px;
+  background: url(../images/mobile-menu-collapsed.png) center center no-repeat;
+}
+
+/* line 93, ../sass/_nav.scss */
+#mobileMenu a:hover {
+  border-bottom: none !important;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  /* line 98, ../sass/_nav.scss */
+  #header a.audiLogo {
+    background: url(../images/logo.png);
+    width: 75px;
+  }
+
+  /* line 99, ../sass/_nav.scss */
+  #header li {
+    margin-right: 45px;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  /* line 103, ../sass/_nav.scss */
+  #header a.audiLogo {
+    background: url(../images/logo.png);
+    width: 75px;
+    margin-top: 12px;
+    margin-right: 15px;
+  }
+
+  /* line 104, ../sass/_nav.scss */
+  #header {
+    height: 48px;
+    border-bottom: solid 1px #d5d9d8;
+    background-image: none;
+    background-color: #FFF;
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+
+  /* line 105, ../sass/_nav.scss */
+  #mobileMenu {
+    display: inline !important;
+  }
+
+  /* line 106, ../sass/_nav.scss */
+  #mobileMenu a {
+    display: inline !important;
+  }
+
+  /* line 107, ../sass/_nav.scss */
+  body {
+    background-image: none;
+    overflow-x: hidden;
+  }
+
+  /* line 110, ../sass/_nav.scss */
+  #header ul#mobileNav {
+    width: 270px;
+    position: fixed;
+    top: 0;
+    left: -271px;
+    min-height: 100%;
+    height: 100%;
+    background-color: #f0f0f0;
+    border-right: solid 1px #d5d9d8;
+    -moz-transition: padding 0.25s ease-out;
+    -o-transition: padding 0.25s ease-out;
+    -webkit-transition: padding 0.25s ease-out;
+    transition: padding 0.25s ease-out;
+    overflow-y: auto;
+  }
+  /* line 124, ../sass/_nav.scss */
+  #header ul#mobileNav li {
+    height: 48px;
+    border-bottom: solid 1px #d5d9d8;
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
+  }
+  /* line 130, ../sass/_nav.scss */
+  #header ul#mobileNav li a {
+    border-bottom: none;
+    text-indent: 15px;
+    padding: 16px 0 18px 0;
+    width: 100%;
+    display: block;
+    text-align: left;
+    border-bottom: none !important;
+  }
+  /* line 139, ../sass/_nav.scss */
+  #header ul#mobileNav li a.active, #header ul#mobileNav li a:hover {
+    border-left: solid 3px #cc0033;
+    background-color: #FFF;
+    text-indent: 12px;
+  }
+  /* line 144, ../sass/_nav.scss */
+  #header ul#mobileNav li a.active {
+    font-family: "Audi Type W01 Ext Bold";
+    color: black;
+  }
+  /* line 149, ../sass/_nav.scss */
+  #header ul#mobileNav li.nav_home {
+    margin-left: 0px;
+  }
+  /* line 152, ../sass/_nav.scss */
+  #header ul#mobileNav li.nav_search {
+    display: none;
+  }
+  /* line 155, ../sass/_nav.scss */
+  #header ul#mobileNav div.nav_links {
+    display: block;
+    float: left;
+    margin: 25px 0 25px 15px;
+  }
+  /* line 158, ../sass/_nav.scss */
+  #header ul#mobileNav div.nav_links li {
+    border: none;
+    height: auto;
+  }
+  /* line 161, ../sass/_nav.scss */
+  #header ul#mobileNav div.nav_links li a.cta {
+    margin-bottom: 7px;
+    padding: 0;
+    color: black;
+    font-size: 12px;
+    line-height: 18px;
+  }
+  /* line 168, ../sass/_nav.scss */
+  #header ul#mobileNav div.nav_links li a.cta:hover {
+    border: none;
+    color: #cc0033;
+    background-color: #f0f0f0;
+    text-indent: 15px;
+  }
+
+  /* line 178, ../sass/_nav.scss */
+  .mobileHeader {
+    float: left;
+    padding-top: 16px;
+    padding-left: 15px;
+    font-family: "Audi Type W01 Ext Bold";
+    font-size: 11px;
+    text-decoration: none;
+    font-weight: normal;
+  }
+}
+/* line 192, ../sass/_nav.scss */
+#footer, #footerAlt {
+  padding-top: 30px;
+}
+/* line 194, ../sass/_nav.scss */
+#footer .head, #footerAlt .head {
+  width: 32.63371%;
+  float: left;
+  margin-right: 1.04944%;
+  display: inline;
+}
+/* line 197, ../sass/_nav.scss */
+#footer .socialIcons, #footerAlt .socialIcons {
+  width: 66.31685%;
+  float: right;
+  margin-right: 0;
+  *margin-left: -0.83em;
+  display: inline;
+}
+/* line 199, ../sass/_nav.scss */
+#footer .socialIcons ul, #footerAlt .socialIcons ul {
+  display: block;
+  float: right;
+}
+/* line 201, ../sass/_nav.scss */
+#footer .socialIcons ul li, #footerAlt .socialIcons ul li {
+  display: block;
+  float: right;
+}
+/* line 203, ../sass/_nav.scss */
+#footer .socialIcons ul li a, #footerAlt .socialIcons ul li a {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+  display: inline-block;
+  background-position: top right;
+  background-repeat: no-repeat;
+  text-indent: -2000px;
+}
+/* line 212, ../sass/_nav.scss */
+#footer .socialIcons ul li a:hover, #footerAlt .socialIcons ul li a:hover {
+  cursor: pointer;
+}
+/* line 215, ../sass/_nav.scss */
+#footer .socialIcons ul li a.fb, #footerAlt .socialIcons ul li a.fb {
+  background-image: url(../images/social-facebook.png);
+  margin-right: 0;
+}
+/* line 216, ../sass/_nav.scss */
+#footer .socialIcons ul li a.fb:hover, #footerAlt .socialIcons ul li a.fb:hover {
+  background-image: url(../images/social-facebook_hover.png);
+}
+/* line 217, ../sass/_nav.scss */
+#footer .socialIcons ul li a.tw, #footerAlt .socialIcons ul li a.tw {
+  background-image: url(../images/social-twitter.png);
+}
+/* line 218, ../sass/_nav.scss */
+#footer .socialIcons ul li a.tw:hover, #footerAlt .socialIcons ul li a.tw:hover {
+  background-image: url(../images/social-twitter_hover.png);
+}
+/* line 219, ../sass/_nav.scss */
+#footer .socialIcons ul li a.gp, #footerAlt .socialIcons ul li a.gp {
+  background-image: url(../images/social-gplus.png);
+}
+/* line 220, ../sass/_nav.scss */
+#footer .socialIcons ul li a.gp:hover, #footerAlt .socialIcons ul li a.gp:hover {
+  background-image: url(../images/social-gplus_hover.png);
+}
+/* line 221, ../sass/_nav.scss */
+#footer .socialIcons ul li a.yt, #footerAlt .socialIcons ul li a.yt {
+  background-image: url(../images/social-youtube.png);
+}
+/* line 222, ../sass/_nav.scss */
+#footer .socialIcons ul li a.yt:hover, #footerAlt .socialIcons ul li a.yt:hover {
+  background-image: url(../images/social-youtube_hover.png);
+}
+/* line 226, ../sass/_nav.scss */
+#footer .legal, #footerAlt .legal {
+  width: 32.63371%;
+  float: left;
+  margin-right: 1.04944%;
+  display: inline;
+  clear: both;
+}
+/* line 229, ../sass/_nav.scss */
+#footer .legal p, #footerAlt .legal p {
+  font-size: 11px;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  /* line 235, ../sass/_nav.scss */
+  #footer .head, #footerAlt .head {
+    display: none;
+  }
+  /* line 236, ../sass/_nav.scss */
+  #footer .socialIcons, #footerAlt .socialIcons {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+    display: block;
+    float: left;
+    padding-bottom: 0;
+  }
+  /* line 240, ../sass/_nav.scss */
+  #footer .socialIcons ul, #footerAlt .socialIcons ul {
+    display: block;
+    float: left;
+  }
+  /* line 244, ../sass/_nav.scss */
+  #footer .legal, #footerAlt .legal {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+    border: none;
+    padding-top: 0;
+  }
+}
+
+/* line 251, ../sass/_nav.scss */
+#footerAlt .socialIcons a.fb {
+  background-image: url(../images/socialSquare/social-facebook.png) !important;
+  margin-right: 0;
+}
+/* line 252, ../sass/_nav.scss */
+#footerAlt .socialIcons a.fb:hover {
+  background-image: url(../images/socialSquare/social-facebook_hover.png) !important;
+}
+/* line 253, ../sass/_nav.scss */
+#footerAlt .socialIcons a.tw {
+  background-image: url(../images/socialSquare/social-twitter.png) !important;
+}
+/* line 254, ../sass/_nav.scss */
+#footerAlt .socialIcons a.tw:hover {
+  background-image: url(../images/socialSquare/social-twitter_hover.png) !important;
+}
+/* line 255, ../sass/_nav.scss */
+#footerAlt .socialIcons a.gp {
+  background-image: url(../images/socialSquare/social-gplus.png) !important;
+}
+/* line 256, ../sass/_nav.scss */
+#footerAlt .socialIcons a.gp:hover {
+  background-image: url(../images/socialSquare/social-gplus_hover.png) !important;
+}
+/* line 257, ../sass/_nav.scss */
+#footerAlt .socialIcons a.yt {
+  background-image: url(../images/socialSquare/social-youtube.png) !important;
+}
+/* line 258, ../sass/_nav.scss */
+#footerAlt .socialIcons a.yt:hover {
+  background-image: url(../images/socialSquare/social-youtube_hover.png) !important;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  /* line 266, ../sass/_nav.scss */
+  .contextual-footer section {
+    width: 100% !important;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  /* line 271, ../sass/_nav.scss */
+  .contextual-footer section.spacer {
+    display: none;
+  }
+}
+
+/* line 281, ../sass/_nav.scss */
+.whiteOverlay {
+  display: block;
+  position: fixed;
+  top: 0;
+  visibility: hidden;
+  background-color: rgba(255, 255, 255, 0);
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  -moz-transition: all 0.25s ease-in-out;
+  -o-transition: all 0.25s ease-in-out;
+  -webkit-transition: all 0.25s ease-in-out;
+  transition: all 0.25s ease-in-out;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  /* line 281, ../sass/_nav.scss */
+  .whiteOverlay {
+    display: none;
+  }
+}
+
+/* line 297, ../sass/_nav.scss */
+.visible {
+  background-color: rgba(255, 255, 255, 0.95) !important;
+  visibility: visible !important;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  /* line 302, ../sass/_nav.scss */
+  .searchLayer {
+    display: none;
+  }
+}
+/* line 307, ../sass/_nav.scss */
+.searchLayer .searchBar {
+  padding-top: 26px;
+  height: 91px;
+  position: relative;
+  z-index: 2;
+  display: block;
+  float: left;
+  width: 100%;
+  float: right;
+  margin-right: 0;
+  *margin-left: -0.83em;
+  display: inline;
+}
+/* line 314, ../sass/_nav.scss */
+.searchLayer .searchBar form {
+  display: block;
+  float: left;
+  margin-left: 3px;
+  padding: 0;
+  width: 100%;
+  float: right;
+  margin-right: 0;
+  *margin-left: -0.83em;
+  display: inline;
+}
+/* line 319, ../sass/_nav.scss */
+.searchLayer .searchBar form #textInput {
+  padding: 12px 0 8px 0;
+  text-indent: 80px;
+  line-height: 42px;
+  letter-spacing: -2px;
+  border: none;
+  border-bottom: 1px dotted #fff;
+  background: white;
+  color: black;
+  height: 50px;
+  outline: none;
+  font-family: "Audi Type W01 Ext Bold";
+  margin: 0;
+  width: 100%;
+  float: right;
+  margin-right: 0;
+  *margin-left: -0.83em;
+  display: inline;
+  -moz-transition: all 0.25s ease-in-out;
+  -o-transition: all 0.25s ease-in-out;
+  -webkit-transition: all 0.25s ease-in-out;
+  transition: all 0.25s ease-in-out;
+  //background: url(../images/largeSearchIcon.png) no-repeat 0px 18px;
+  background: url(../images/search-header.png) no-repeat 0px -5px;
+}
+@media screen and (min-width: 768px) {
+  /* line 319, ../sass/_nav.scss */
+  .searchLayer .searchBar form #textInput {
+    font-size: 34px;
+    letter-spacing: -1px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  /* line 319, ../sass/_nav.scss */
+  .searchLayer .searchBar form #textInput {
+    font-size: 20px;
+    letter-spacing: -2px;
+  }
+}
+/* line 341, ../sass/_nav.scss */
+.searchLayer .searchBar form #textInput:hover, .searchLayer .searchBar form #textInput:focus {
+  background-image: url(../images/search-header.png);
+  border-bottom: 1px dotted #b0b6b8 !important;
+}
+/* line 347, ../sass/_nav.scss */
+.searchLayer .searchBar form .searchClear {
+  display: block;
+  float: right;
+  position: relative;
+  top: -48px;
+  height: 30px;
+  width: 30px;
+  background: url(../images/gal_close.png) no-repeat center top;
+  text-indent: -5000px;
+  border: none;
+  opacity: 0.0;
+  -moz-transition: opacity 0.25s ease-in-out;
+  -o-transition: opacity 0.25s ease-in-out;
+  -webkit-transition: opacity 0.25s ease-in-out;
+  transition: opacity 0.25s ease-in-out;
+}
+/* line 359, ../sass/_nav.scss */
+.searchLayer .searchBar form .searchClear:hover {
+  cursor: pointer;
+  background-position-y: bottom;
+}
+/* line 363, ../sass/_nav.scss */
+.searchLayer .searchBar form .visible {
+  opacity: 1.0;
+}
+/* line 368, ../sass/_nav.scss */
+.searchLayer .searchBar:hover .searchClear {
+  opacity: 1.0;
+}
+/* line 376, ../sass/_nav.scss */
+.searchLayer #searchResults {
+  width: 100%;
+  float: right;
+  margin-right: 0;
+  *margin-left: -0.83em;
+  display: inline;
+  display: block;
+  float: left;
+  margin-top: -21px;
+  visibility: hidden;
+  opacity: 0;
+  -moz-transition: all 0.25s ease-in-out;
+  -o-transition: all 0.25s ease-in-out;
+  -webkit-transition: all 0.25s ease-in-out;
+  transition: all 0.25s ease-in-out;
+  position: relative;
+  z-index: 2;
+}
+/* line 385, ../sass/_nav.scss */
+.searchLayer #searchResults .suggestedSearch {
+  position: absolute;
+  font-size: 38px;
+  display: block;
+  float: left;
+  font-family: "Audi Type W01 Ext Bold";
+  color: black;
+  padding: 0;
+  margin: 0;
+  margin-top: 1px;
+  width: 100%;
+  float: right;
+  margin-right: 0;
+  *margin-left: -0.83em;
+  display: inline;
+}
+/* line 394, ../sass/_nav.scss */
+.searchLayer #searchResults .suggestedSearch li button {
+  display: block;
+  float: left;
+  font-family: "Audi Type W01 Ext Bold";
+  color: black;
+  padding: 10px 20px 10px 0;
+  text-align: left;
+  text-indent: 80px;
+  border: none;
+  border-bottom: solid 2px #FFF;
+  background: #f2f4f3;
+  width: 100%;
+  line-height: 1.2em;
+  letter-spacing: -2px;
+  -moz-transition: all 0.25s ease-in-out;
+  -o-transition: all 0.25s ease-in-out;
+  -webkit-transition: all 0.25s ease-in-out;
+  transition: all 0.25s ease-in-out;
+}
+@media screen and (min-width: 768px) {
+  /* line 394, ../sass/_nav.scss */
+  .searchLayer #searchResults .suggestedSearch li button {
+    font-size: 34px;
+    letter-spacing: -1px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  /* line 394, ../sass/_nav.scss */
+  .searchLayer #searchResults .suggestedSearch li button {
+    font-size: 38px;
+    letter-spacing: -2px;
+  }
+}
+/* line 415, ../sass/_nav.scss */
+.searchLayer #searchResults .suggestedSearch li button a {
+  text-decoration: none;
+}
+/* line 418, ../sass/_nav.scss */
+.searchLayer #searchResults .suggestedSearch li button a:hover {
+  text-decoration: none;
+  color: #000;
+}
+/* line 423, ../sass/_nav.scss */
+.searchLayer #searchResults .suggestedSearch li button:hover {
+  background-color: #d5d9d8;
+  cursor: pointer;
+}
+/* line 429, ../sass/_nav.scss */
+.searchLayer .visible {
+  visibility: visible !important;
+  opacity: 1.0 !important;
+}
+
+/* line 436, ../sass/_nav.scss */
+body.homepage #textInput {
+  border-bottom: 1px dotted #b0b6b8 !important;
+}
+/* line 439, ../sass/_nav.scss */
+body.homepage .searchClear {
+  opacity: 1.0 !important;
+}
+
+/* line 5, ../sass/_color.scss */
+.colorWeight .cWeight div {
+  height: 40px;
+}
+/* line 7, ../sass/_color.scss */
+.colorWeight .cw1 {
+  width: 3.16096%;
+  float: left;
+  margin-right: 1.04944%;
+  display: inline;
+  background-color: #cc0033;
+}
+/* line 8, ../sass/_color.scss */
+.colorWeight .cw2 {
+  width: 41.05449%;
+  float: left;
+  margin-right: 1.04944%;
+  display: inline;
+  background-color: white;
+  border: solid 1px #e6e8e8;
+}
+/* line 9, ../sass/_color.scss */
+.colorWeight .cw3 {
+  width: 7.37135%;
+  float: left;
+  margin-right: 1.04944%;
+  display: inline;
+  background-color: black;
+}
+/* line 10, ../sass/_color.scss */
+.colorWeight .cw4 {
+  width: 24.21292%;
+  float: left;
+  margin-right: 1.04944%;
+  display: inline;
+  background-color: #e6e8e8;
+}
+/* line 11, ../sass/_color.scss */
+.colorWeight .cw5 {
+  width: 11.58174%;
+  float: left;
+  margin-right: 1.04944%;
+  display: inline;
+  background-color: #f2f4f3;
+}
+/* line 12, ../sass/_color.scss */
+.colorWeight .cw6 {
+  width: 7.37135%;
+  float: right;
+  margin-right: 0;
+  *margin-left: -0.83em;
+  display: inline;
+  background-color: #434c53;
+}
+
+/* line 16, ../sass/_color.scss */
+#color .swatch {
+  height: 40px;
+  width: 100%;
+  display: block;
+  float: left;
+  margin-bottom: 20px;
+}
+/* line 22, ../sass/_color.scss */
+#color h6 {
+  padding-bottom: 0;
+}
+/* line 25, ../sass/_color.scss */
+#color section {
+  border: none;
+  padding-top: 0;
+  padding-bottom: 20px;
+}
+/* line 30, ../sass/_color.scss */
+#color .p1 {
+  background-color: #cc0033;
+}
+/* line 31, ../sass/_color.scss */
+#color .p2 {
+  background-color: #aa142d;
+}
+/* line 32, ../sass/_color.scss */
+#color .p3 {
+  background-color: white;
+  border: solid 1px #d5d9d8;
+}
+/* line 33, ../sass/_color.scss */
+#color .p4 {
+  background-color: black;
+}
+/* line 35, ../sass/_color.scss */
+#color .p5 {
+  background-color: #434c53;
+}
+/* line 36, ../sass/_color.scss */
+#color .p6 {
+  background-color: #6d7579;
+}
+/* line 37, ../sass/_color.scss */
+#color .p7 {
+  background-color: #b0b6b8;
+}
+/* line 38, ../sass/_color.scss */
+#color .p8 {
+  background-color: #d5d9d8;
+}
+/* line 40, ../sass/_color.scss */
+#color .p9 {
+  background-color: #8e9498;
+}
+/* line 41, ../sass/_color.scss */
+#color .p10 {
+  background-color: #a7acaf;
+}
+/* line 42, ../sass/_color.scss */
+#color .p11 {
+  background-color: #d0d3d4;
+}
+/* line 43, ../sass/_color.scss */
+#color .p12 {
+  background-color: #e6e8e8;
+}
+/* line 45, ../sass/_color.scss */
+#color .p13 {
+  background-color: #c6c9cb;
+}
+/* line 46, ../sass/_color.scss */
+#color .p14 {
+  background-color: #d3d5d7;
+}
+/* line 47, ../sass/_color.scss */
+#color .p15 {
+  background-color: #e7e9ea;
+}
+/* line 48, ../sass/_color.scss */
+#color .p16 {
+  background-color: #f2f4f3;
+}
+
+/* -------------------------------------------------------------------------*/
+/* Layout */
+/* line 4, ../sass/_elements.scss */
+.elementSection {
+  margin-bottom: 30px;
+}
+
+/* line 8, ../sass/_elements.scss */
+.cellOne, .cellTwo {
+  display: block;
+  float: left;
+}
+
+/* line 12, ../sass/_elements.scss */
+.cellOne {
+  width: 48.93943%;
+  float: left;
+  margin-right: 2.12113%;
+  display: inline;
+}
+
+/* line 16, ../sass/_elements.scss */
+.cellTwo {
+  width: 48.93943%;
+  float: right;
+  margin-right: 0;
+  *margin-left: -0.83em;
+  display: inline;
+}
+
+/* -------------------------------------------------------------------------*/
+/* Choice Elements */
+/* line 24, ../sass/_elements.scss */
+.formGroup {
+  display: block;
+  float: left;
+}
+
+/* line 28, ../sass/_elements.scss */
+button {
+  display: block;
+  float: left;
+  padding: 0;
+  margin: 0;
+  border: none;
+}
+
+/* line 34, ../sass/_elements.scss */
+button:hover {
+  cursor: pointer;
+}
+
+/* line 38, ../sass/_elements.scss */
+.buttons-checkbox, .buttons-checkbox-selected, .buttons-radio, .buttons-radio-selected, .buttons-radio2, .buttons-radio2-selected {
+  height: 20px;
+  width: 20px;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  margin-right: 8px;
+  margin-bottom: 20px;
+}
+
+/* line 47, ../sass/_elements.scss */
+.buttons-checkbox {
+  background: url(../images/checkbox.png);
+}
+
+/* line 51, ../sass/_elements.scss */
+.buttons-checkbox-selected {
+  background: url(../images/checkbox_target.png);
+}
+
+/* line 55, ../sass/_elements.scss */
+.buttons-radio {
+  background: url(../images/radio-button.png);
+}
+
+/* line 59, ../sass/_elements.scss */
+.buttons-radio-selected {
+  background: url(../images/radio-button2_target.png);
+}
+
+/* line 63, ../sass/_elements.scss */
+.buttons-radio2 {
+  background: url(../images/radio-button.png);
+}
+
+/* line 67, ../sass/_elements.scss */
+.buttons-radio2-selected {
+  background: url(../images/radio-button_target.png);
+}
+
+/* line 71, ../sass/_elements.scss */
+.buttons-hotspot {
+  height: 30px;
+  width: 30px;
+  background: url(../images/config_hotspots.png) no-repeat center -1px;
+}
+
+/* line 76, ../sass/_elements.scss */
+.buttons-hotspot:hover {
+  background: url(../images/config_hotspots.png) no-repeat center center !important;
+}
+
+/* line 79, ../sass/_elements.scss */
+.buttons-hotspot-selected {
+  height: 30px;
+  width: 30px;
+  background: url(../images/config_hotspots.png) no-repeat center -65px;
+}
+
+/* -------------------------------------------------------------------------*/
+/* Buttons */
+/* line 90, ../sass/_elements.scss */
+a.btn, a.btn-g, a.btn-r {
+  display: block;
+  float: left;
+  text-decoration: none;
+  color: white;
+  padding: 0 31px 0 12px;
+  line-height: 30px;
+  height: 30px;
+  background-image: url(../images/link_arrow.png);
+  background-position: right 11px;
+  background-repeat: no-repeat;
+  margin-bottom: 20px;
+  margin-right: 15px;
+  font-size: 12px;
+  clear: both;
+  font-family: "Audi Type W01 Bold";
+  -moz-transition: background 0.25s ease-in-out;
+  -o-transition: background 0.25s ease-in-out;
+  -webkit-transition: background 0.25s ease-in-out;
+  transition: background 0.25s ease-in-out;
+}
+@media screen and (max-width: 767px) {
+  /* line 90, ../sass/_elements.scss */
+  a.btn, a.btn-g, a.btn-r {
+    width: 100%;
+    text-align: center;
+    background-position: right 15px;
+    padding: 5px 0;
+  }
+}
+
+/* line 114, ../sass/_elements.scss */
+a.btn {
+  background-color: black;
+}
+
+/* line 118, ../sass/_elements.scss */
+a.btn-g {
+  background-color: #e6e8e8;
+  color: black;
+  background-image: url(../images/cta-double-arrow-secondary.png);
+  background-position: right 11px;
+}
+@media screen and (max-width: 479px) {
+  /* line 118, ../sass/_elements.scss */
+  a.btn-g {
+    background-position: right 15px;
+  }
+}
+
+/* line 128, ../sass/_elements.scss */
+a.btn-r {
+  background-color: #cc0033;
+}
+
+/* line 132, ../sass/_elements.scss */
+a.btn:hover {
+  background-color: #434c53;
+}
+
+/* line 136, ../sass/_elements.scss */
+a.btn-g:hover {
+  background-color: #d5d9d8;
+}
+
+/* line 140, ../sass/_elements.scss */
+a.btn-r:hover {
+  background-color: #aa142d;
+}
+
+/* line 144, ../sass/_elements.scss */
+a.btn:active {
+  background-color: #434c53;
+}
+
+/* line 148, ../sass/_elements.scss */
+a.btn:active, a.btn-r:active {
+  -moz-box-shadow: inset 0 0 .5em #333;
+  -webkit-box-shadow: inset 0 0 .5em #333;
+  box-shadow: inset 0 0 .5em #333;
+}
+
+/* line 154, ../sass/_elements.scss */
+a.btn-g:active {
+  -moz-box-shadow: inset 0 0 0.5em #b0b6b8;
+  -webkit-box-shadow: inset 0 0 0.5em #b0b6b8;
+  box-shadow: inset 0 0 0.5em #b0b6b8;
+}
+
+/* line 160, ../sass/_elements.scss */
+a.btn-info, a.btn-info-small, a.btn-close, a.btn-close-large, a.btn-play-large, a.btn-play, a.btn-pause, a.btn-back, a.btn-forward {
+  display: block;
+  float: left;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  text-indent: -3000px;
+}
+
+/* line 167, ../sass/_elements.scss */
+a.btn-info {
+  height: 30px;
+  width: 30px;
+  background-image: url(../images/info-hotspot.png);
+}
+
+/* line 173, ../sass/_elements.scss */
+a.btn-info:active {
+  background-image: url(../images/info-hotspot_active.png);
+}
+
+/* line 177, ../sass/_elements.scss */
+a.btn-info:hover {
+  background-image: url(../images/info-hotspot_hover.png);
+}
+
+/* line 181, ../sass/_elements.scss */
+a.btn-info-small {
+  height: 20px;
+  width: 20px;
+  background-image: url(../images/info-hotspot-small.png);
+}
+
+/* line 187, ../sass/_elements.scss */
+a.btn-info-small:active {
+  background-image: url(../images/info-hotspot-small_active.png);
+}
+
+/* line 191, ../sass/_elements.scss */
+a.btn-info-small:hover {
+  background-image: url(../images/info-hotspot-small_hover.png);
+}
+
+/* line 195, ../sass/_elements.scss */
+a.btn-close {
+  height: 30px;
+  width: 30px;
+  background-image: url(../images/close-x.png);
+}
+
+/* line 201, ../sass/_elements.scss */
+a.btn-close:active {
+  background-image: url(../images/close-x_active.png);
+}
+
+/* line 205, ../sass/_elements.scss */
+a.btn-close:hover {
+  background-image: url(../images/close-x_hover.png);
+}
+
+/* line 209, ../sass/_elements.scss */
+a.btn-close-large {
+  height: 60px;
+  width: 60px;
+  background-image: url(../images/close-x-large.png);
+}
+
+/* line 215, ../sass/_elements.scss */
+a.btn-close-large:active {
+  background-image: url(../images/close-x-large_active.png);
+}
+
+/* line 219, ../sass/_elements.scss */
+a.btn-close-large:hover {
+  background-image: url(../images/close-x-large_hover.png);
+}
+
+/* line 223, ../sass/_elements.scss */
+a.btn-back {
+  height: 30px;
+  width: 30px;
+  background-image: url(../images/back-arrow.png);
+}
+
+/* line 229, ../sass/_elements.scss */
+a.btn-back:active {
+  background-image: url(../images/back-arrow_active.png);
+}
+
+/* line 233, ../sass/_elements.scss */
+a.btn-back:hover {
+  background-image: url(../images/back-arrow_hover.png);
+}
+
+/* line 237, ../sass/_elements.scss */
+a.btn-forward {
+  height: 30px;
+  width: 30px;
+  background-image: url(../images/forward-arrow.png);
+}
+
+/* line 243, ../sass/_elements.scss */
+a.btn-forward:active {
+  background-image: url(../images/forward-arrow_active.png);
+}
+
+/* line 247, ../sass/_elements.scss */
+a.btn-forward:hover {
+  background-image: url(../images/forward-arrow_hover.png);
+}
+
+/* line 251, ../sass/_elements.scss */
+a.btn-pause {
+  height: 30px;
+  width: 30px;
+  background-image: url(../images/pause.png);
+}
+
+/* line 257, ../sass/_elements.scss */
+a.btn-pause:active {
+  background-image: url(../images/pause_active.png);
+}
+
+/* line 261, ../sass/_elements.scss */
+a.btn-pause:hover {
+  background-image: url(../images/pause_hover.png);
+}
+
+/* line 265, ../sass/_elements.scss */
+a.btn-play {
+  height: 30px;
+  width: 30px;
+  background-image: url(../images/play.png);
+}
+
+/* line 271, ../sass/_elements.scss */
+a.btn-play:active {
+  background-image: url(../images/play_active.png);
+}
+
+/* line 275, ../sass/_elements.scss */
+a.btn-play:hover {
+  background-image: url(../images/play_hover.png);
+}
+
+/* line 279, ../sass/_elements.scss */
+a.btn-play-large {
+  height: 60px;
+  width: 60px;
+  background-image: url(../images/play-large.png);
+}
+
+/* line 285, ../sass/_elements.scss */
+a.btn-play-large:active {
+  background-image: url(../images/play-large_active.png);
+}
+
+/* line 289, ../sass/_elements.scss */
+a.btn-play-large:hover {
+  background-image: url(../images/play-large_hover.png);
+}
+
+/* -------------------------------------------------------------------------*/
+/* Forms */
+/* line 299, ../sass/_elements.scss */
+form input {
+  width: 100%;
+  margin: 0 0 20px 0;
+  border: none;
+  border-bottom: dotted 1px #000;
+  padding-bottom: 6px;
+  font-family: "Audi Type W01";
+  font-size: 12px;
+}
+/* line 307, ../sass/_elements.scss */
+form input:focus {
+  outline: none;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  /* line 299, ../sass/_elements.scss */
+  form input {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+    border: solid 1px #d5d9d8;
+    padding: 10px 0;
+    text-indent: 10px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+  }
+  /* line 319, ../sass/_elements.scss */
+  form input:focus, form input:hover {
+    border: solid 1px #b0b6b8;
+  }
+}
+/* line 324, ../sass/_elements.scss */
+form select {
+  width: 100%;
+  margin: 0 0 20px 0;
+  border: none;
+  border-bottom: dotted 1px #000;
+  padding-bottom: 6px;
+  background: url(../images/select-arrow.png) no-repeat right 5px transparent;
+  -webkit-appearance: none;
+  border-radius: 0;
+  font-family: "Audi Type W01";
+  font-size: 12px;
+}
+/* line 335, ../sass/_elements.scss */
+form select:focus {
+  outline: none;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  /* line 324, ../sass/_elements.scss */
+  form select {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+    border: solid 1px #d5d9d8;
+    padding: 10px 0;
+    text-indent: 10px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+    background: url(../images/select-arrow.png) no-repeat 97% 14px transparent;
+  }
+  /* line 348, ../sass/_elements.scss */
+  form select:focus, form select:hover {
+    border: solid 1px #b0b6b8;
+  }
+}
+/* line 353, ../sass/_elements.scss */
+form .searchField {
+  background: url(../images/search2.png) no-repeat right 1px transparent;
+}
+/* line 355, ../sass/_elements.scss */
+form .searchField:focus {
+  background: url(../images/search2_hover.png) no-repeat right 1px transparent;
+}
+
+/* line 361, ../sass/_elements.scss */
+label {
+  display: block;
+  float: left;
+  font-size: 12px;
+  margin-right: 20px;
+  padding-top: 2px;
+  padding-bottom: 20px;
+}
+
+/* line 369, ../sass/_elements.scss */
+.dropdownMenu {
+  background: url(../images/select-arrow.png) no-repeat right 5px transparent;
+  width: 100%;
+  margin: 0 0 20px 0;
+  border: none;
+  border-bottom: dotted 1px #000;
+  padding-bottom: 6px;
+  font-family: "Audi Type W01";
+  font-size: 12px;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  /* line 369, ../sass/_elements.scss */
+  .dropdownMenu {
+    width: 100%;
+    float: right;
+    margin-right: 0;
+    *margin-left: -0.83em;
+    display: inline;
+    border: solid 1px #d5d9d8;
+    padding: 10px 0;
+    text-indent: 10px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+  }
+  /* line 387, ../sass/_elements.scss */
+  .dropdownMenu:focus, .dropdownMenu:hover {
+    border: solid 1px #b0b6b8;
+  }
+}
+
+/* line 393, ../sass/_elements.scss */
+.dropdownList {
+  display: none;
+  position: relative;
+  width: 100%;
+  top: -20px;
+}
+/* line 398, ../sass/_elements.scss */
+.dropdownList ul {
+  border: solid 1px #d5d9d8;
+  border-top: none;
+  width: 100%;
+  padding-bottom: 0;
+  position: absolute;
+  z-index: 1;
+}
+/* line 406, ../sass/_elements.scss */
+.dropdownList ul li button {
+  padding: 8px 0;
+  width: 100%;
+  background-color: #FFF;
+  text-align: left;
+  text-indent: 8px;
+  font-family: "Audi Type W01";
+  font-size: 12px;
+}
+/* line 414, ../sass/_elements.scss */
+.dropdownList ul li button:hover {
+  background-color: #e6e8e8;
+  cursor: default;
+}
+
+/* line 422, ../sass/_elements.scss */
+.dropOn {
+  display: block;
+}
+
+/* -------------------------------------------------------------------------*/
+/* Additional Elements */
+/* line 430, ../sass/_elements.scss */
+div.loader {
+  display: block;
+  float: left;
+  background: url(../images/audi_preloader-bg5.png) center center no-repeat;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 14px;
+  position: absolute;
+  margin-left: 50%;
+  margin-top: 50%;
+  left: -30px;
+  top: -30px;
+}
+/* line 440, ../sass/_elements.scss */
+div.loader img {
+  display: block;
+  float: left;
+  height: auto;
+  width: auto;
+  padding: 0;
+}
+
+/* -------------------------------------------------------------------------*/
+/* Icon Layout */
+/* line 453, ../sass/_elements.scss */
+#iconNameList li, #iconNameList2 li {
+  height: 32px;
+  display: block;
+  float: left;
+  clear: both;
+  padding-top: 8px;
+  padding-bottom: 7px;
+}
+/* line 459, ../sass/_elements.scss */
+#iconNameList li img, #iconNameList2 li img {
+  padding-bottom: 0;
+}
+
+/* line 467, ../sass/_elements.scss */
+#iconList li, #iconList2 li {
+  height: 32px;
+  display: block;
+  float: left;
+  clear: both;
+  padding-bottom: 15px;
+}
+/* line 472, ../sass/_elements.scss */
+#iconList li img, #iconList2 li img {
+  padding-bottom: 0;
+}
+
+/* -------------------------------------------------------------------------*/
+/* Banner Layout */
+/* line 483, ../sass/_elements.scss */
+#banners h3 {
+  padding-top: 15px;
+}
+
+/* line 489, ../sass/_elements.scss */
+.bannerList li, .bannerList2 li {
+  display: block;
+  float: left;
+  margin: 0 30px 30px 0;
+}
+/* line 494, ../sass/_elements.scss */
+.bannerList li img, .bannerList2 li img {
+  width: auto;
+}
+
+/* line 501, ../sass/_elements.scss */
+.bannerList2 {
+  position: absolute;
+}
+/* line 503, ../sass/_elements.scss */
+.bannerList2 li {
+  opacity: 0;
+  -moz-transition: all 0.25s ease-in-out;
+  -o-transition: all 0.25s ease-in-out;
+  -webkit-transition: all 0.25s ease-in-out;
+  transition: all 0.25s ease-in-out;
+}
+/* line 506, ../sass/_elements.scss */
+.bannerList2 li em {
+  opacity: 0;
+}
+/* line 509, ../sass/_elements.scss */
+.bannerList2 li:hover {
+  opacity: 1.0;
+}
+
+/* -------------------------------------------------------------------------*/
+/* Index Template */
+/* line 407, ../sass/global.scss */
+.sectionTitle {
+  padding-bottom: 10px;
+}
+
+/* line 411, ../sass/global.scss */
+.pageTitle {
+  padding-top: 30px;
+  width: 66.31685%;
+  float: left;
+  margin-right: 1.04944%;
+  display: inline;
+}
+
+/* line 416, ../sass/global.scss */
+header {
+  display: block;
+  float: left;
+  margin: 20px 0 20px;
+  padding: 0;
+  width: 100%;
+  float: right;
+  margin-right: 0;
+  *margin-left: -0.83em;
+  display: inline;
+}
+
+/* line 424, ../sass/global.scss */
+.logo {
+  height: auto;
+  display: block;
+  float: right;
+  width: 32.63371%;
+  float: right;
+  margin-right: 0;
+  *margin-left: -0.83em;
+  display: inline;
+  margin: 30px 0 0 0;
+}
+/* line 429, ../sass/global.scss */
+.logo img {
+  display: block;
+  float: right;
+  width: auto;
+}
